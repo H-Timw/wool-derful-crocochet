@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/wool-derful-crocochet/static/css/main.dc4d6ff2.css",
-    "main.js": "/wool-derful-crocochet/static/js/main.aaed0a71.js",
-    "static/js/10.0b7e9852.chunk.js": "/wool-derful-crocochet/static/js/10.0b7e9852.chunk.js",
+    "main.css": "/wool-derful-crocochet/static/css/main.cf3a6761.css",
+    "main.js": "/wool-derful-crocochet/static/js/main.196e4ec0.js",
+    "static/js/10.aa678dcf.chunk.js": "/wool-derful-crocochet/static/js/10.aa678dcf.chunk.js",
     "static/js/453.3a37ec78.chunk.js": "/wool-derful-crocochet/static/js/453.3a37ec78.chunk.js",
     "index.html": "/wool-derful-crocochet/index.html",
-    "main.dc4d6ff2.css.map": "/wool-derful-crocochet/static/css/main.dc4d6ff2.css.map",
-    "main.aaed0a71.js.map": "/wool-derful-crocochet/static/js/main.aaed0a71.js.map",
-    "10.0b7e9852.chunk.js.map": "/wool-derful-crocochet/static/js/10.0b7e9852.chunk.js.map",
+    "main.cf3a6761.css.map": "/wool-derful-crocochet/static/css/main.cf3a6761.css.map",
+    "main.196e4ec0.js.map": "/wool-derful-crocochet/static/js/main.196e4ec0.js.map",
+    "10.aa678dcf.chunk.js.map": "/wool-derful-crocochet/static/js/10.aa678dcf.chunk.js.map",
     "453.3a37ec78.chunk.js.map": "/wool-derful-crocochet/static/js/453.3a37ec78.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dc4d6ff2.css",
-    "static/js/main.aaed0a71.js"
+    "static/css/main.cf3a6761.css",
+    "static/js/main.196e4ec0.js"
   ]
 }

@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkwool_derful_crocochet=self.webpackChunkwool_derful_crocochet||[]).push([[10],{10:(e,c,o)=>{o.r(c),o.d(c,{default:()=>u});var r=o(579);function u(){return(0,r.jsx)("div",{children:"HomePages"})}}}]);
-//# sourceMappingURL=10.0b7e9852.chunk.js.map
